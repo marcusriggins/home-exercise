@@ -8,3 +8,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 I created an api which returns an array of filtered autocomplete options.
 https://direct8.org/api/autocomplete?query={query}
+
+### Regarding my answers for the 11 questions are in questions.md file.
