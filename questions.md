@@ -1,4 +1,4 @@
-1.	What is the difference between Component and PureComponent? give an example where it might break my app. 
+<h3>1.	What is the difference between Component and PureComponent? give an example where it might break my app.</h3>
 
 Answer: 
 The major difference between React.PureComponent and React.Component is PureComponent does a shallow prop and state comparison. It means that when comparing scalar values it compares their values, but when comparing objects it compares only references. It helps to improve the performance of the app.
